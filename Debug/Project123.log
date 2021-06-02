@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Microsoft Visual Studio\Answer\Project123\Source.cpp(44,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Project123.vcxproj -> D:\Microsoft Visual Studio\Answer\Project123\Debug\Project123.exe
